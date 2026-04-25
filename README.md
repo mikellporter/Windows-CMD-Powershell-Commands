@@ -1,6 +1,4 @@
-# Windows-CMD-Powershell-Command-List
-
-# 🪟 Windows Command Line Cheat Sheet
+# Windows CMD Powershell Command List
 
 A quick reference for common Windows CMD and PowerShell commands.
 
