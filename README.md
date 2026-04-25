@@ -1,4 +1,4 @@
-# Windows-Command-Lines
+# Windows-CMD-Powershell-Command-List
 
 # 🪟 Windows Command Line Cheat Sheet
 
